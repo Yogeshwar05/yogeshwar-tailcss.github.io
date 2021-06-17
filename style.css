@@ -1,0 +1,11 @@
+.container-h{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    padding-top: 1rem;
+    color: rgb(154, 154, 255);
+}
